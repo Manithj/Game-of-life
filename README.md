@@ -1,6 +1,9 @@
-# 🎮 Game of Life Implementation for Parallel Processing
+# 🎮 Game of Life Implementation for GPU Parallel Processing
 
-![alt text](game_of_life.gif)
+<div style="text-align: center;">
+  <img src="game_of_life.gif" alt="Game of Life">
+</div>
+
 
 ## 📝 Overview
 
